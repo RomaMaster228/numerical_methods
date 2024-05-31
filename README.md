@@ -1,4 +1,4 @@
-# numerical_methods
+# Численные методы в МАИ
 
 lab1 - linear algebra
 
